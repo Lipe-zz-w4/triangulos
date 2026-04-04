@@ -38,6 +38,6 @@ if (ladoA < ladoB+ladoC && ladoB < ladoC+ladoA && ladoC < ladoA+ladoB) {
 
 } else {
 
-    Console.WriteLine("não é um triangulo amg vc é burro?");
+    Console.WriteLine("Não é um triângulo!!");
 
 }
